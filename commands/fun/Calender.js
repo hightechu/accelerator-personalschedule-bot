@@ -16,6 +16,7 @@ module.exports = {
             .setColor('#20C19E')
             .setTitle('Schedule')
             .setAuthor('PSB')
+            .setDescription('Your Schedule for the week')
             .addFields(
                 { name: 'PSB Discord Bot', value: 'Join us this summer for a discount for Premium Edition' },
                 { name: '\u200B', value: '\u200B' },
