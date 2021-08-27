@@ -11,9 +11,11 @@ header {
 }
 
 /* Main Content */
+body {
+  background-color:blanchedalmond
+}
+
 .content {
   padding: 2.5rem 0;
 }
-h3 {
-  color: #8546b5;
-}
+
